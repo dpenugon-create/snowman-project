@@ -12,4 +12,4 @@ When the guesses = 0, they try to guess the whole word unsuccessfully, or they g
 replacing the letters in the word when they get it right was the biggest challenge because I initially used .replace, but since that looks for the first instance of that letter, it was breaking when there were repeated letters. I eventually used str slicing instead to successfully replace the matching letters.
 ## What I'd Improve With More Time
 My code has some clunkiness and inefficiency, especially with how the for loop and nested for loop run, also, I have some "bugs", like in difficulty you can select 3, (Most of this is just try/except stuff that I didnt code in). Also, I would like to make the chatbot interface cleaner, with the order of the information you get presented more digestable and presentable. 
-Made by Dexter Penugonda — [Your GitHub profile link]
+Made by Dexter Penugonda — (https://github.com/dpenugon-create)
